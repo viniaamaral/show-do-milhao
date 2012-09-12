@@ -1,4 +1,6 @@
 require 'readline'
+require './show_do_milhao'
+
 
 nome = Readline.readline("Qual eh o seu nome? ", true)
 
@@ -219,11 +221,6 @@ else
 
 end 
 
+def faz_pergunta(pergunta, opcoes, reposta)
 
-
-
-
-
-
-
-
+end
